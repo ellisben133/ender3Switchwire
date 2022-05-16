@@ -9,9 +9,10 @@ xz bearing blocks are to suit T-Slot extrusion not v slot<br>
 
 Skirt centres I modified to suit the ender3, and I changed up the end caps to utilise magnets
 
-also included quickdraw mod from <a href="https://github.com/hymness1/VoronUsers/tree/master/printer_mods/hymness1/Quickdraw_probe_Voron_Switchwire">Hymess</a> which I plan to use
+For a hot end probe I went with Euclid, and modified a mount to fit off to the bed
 
 Outside of BOM req's <br>
 2 x M5 x 50 SHS<br>
-2 x M5 x 45 BHS<br>
+4 x M5 x 35 BHS<br>
 4 x M5 x 60 SHS<br>
+4 x M3 x 25 BHS<br>
