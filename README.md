@@ -11,6 +11,8 @@ Skirt centres I modified to suit the ender3, and I changed up the end caps to ut
 
 For a hot end probe I went with Euclid, and modified a mount to fit off to the bed
 
+PCB's for ribbon cable <a href="https://github.com/SafflowerCMD/BoganParts/tree/main/safflower/RoadkillExtended">Roadkill</a><br>
+
 Outside of BOM req's <br>
 2 x M5 x 50 SHS<br>
 4 x M5 x 35 BHS<br>
