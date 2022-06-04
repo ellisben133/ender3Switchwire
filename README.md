@@ -4,6 +4,8 @@ This is the files I used to complete my ender3 to switchwire conversion
 Y Axis is all <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire">Gizzle</a><br>
 Everything above the Y is <a href="https://github.com/boubounokefalos/Ender_SW">DaRk_dOg</a><br>
 
+I modded skirts to suit the OG ender 3
+
 I ordered a 310mm piece of 20x20 t slot extrusion for the X-Axis<br>
 xz bearing blocks are to suit T-Slot extrusion not v slot<br>
 
